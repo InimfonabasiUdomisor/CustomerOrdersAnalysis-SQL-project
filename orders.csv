@@ -1,0 +1,500 @@
+order_id,customer_name,email,order_date,product_name,quantity,price,country,order_status
+1001,John Smith,john.smith@gmail.com,12/31/2023,Apple Watch,1,$200 ,usa,Delivered
+1002,john smith,john.smith@gmail.com,12/05/2023,apple watch,1,200,USA,delivered
+1003,SARAH THOMPSON,sarah.t@gmail.com,12/24/2023,Samsung Galaxy S22,two,0,United States,shipped
+1004,Tom O'Brien,,10/05/2023,Google Pixel,1,$400 ,UK,Delivered
+1005,Mary Johnson,mary.j@gmail.com,11/01/2023,Samsung Galaxy S22,2,849,United Kingdom,returned
+1006,Ankit Patel,ankit@@patel.com,10/30/2023,NULL,1,$799.00 ,india,pending
+1007,John Smith,john.smith@gmail.com,10/08/2023,Apple Watch,1,200,usa,delivered
+1008,Carlos Hernandez,carlos@hernandez.com,10/16/2023,Iphone 14,1,$799 ,spain,DELIVERED
+1009,NULL,jessica@abc.com,10/12/2023,Macbook Pro,1,"1,299",canada,returned
+1010,Aisha Khan,aisha.khan@outlook,10/07/2023,MacBook Pro,1,"$1,299.00 ",CANADA,Returned
+1011,Sarah Thompson,sarah.t@gmail.com,11/12/2023,Samsung Galaxy S22,2,849,US,refunded
+1012,tom o'brien,tom.obrien@gmail.com,10/07/2023,Google pixel,1,400,uk,Delivered
+1013,Mary Johnson,mary.j@gmail.com,12/16/2023,SAMSUNG GALAXY S22,2,849,UK,Returned
+1014,Ankit Patel,ankit@patel.com,11/19/2023,Samsung Galaxy S22,1,$849 ,India,Pending
+1015,Carlos Hernandez,carlos@hernandez.com,12/09/2023,iPhone 14,1,799,Spain,delivered
+1016,priya mehta,priya.mehta@gmail.com,12/30/2023,Apple Watch Series 8,1,399.5,usa,Delivered
+1017,CARLOS HERNANDEZ,carlos@hernandez.com,11/11/2023,IPHONE 14 ,2,$799 ,United States,delivered
+1018,tom o'brien,tom.obrien@gmail.com,10/26/2023,Samsung galaxy s22,one,849,U.K.,Shipped
+1019,mary johnson ,mary.j@gmail.com ,12/04/2023,macbook Pro ,3,"1,299",canada ,RETURNED
+1020,John smith,john.smith@gmail.com,10/11/2023,google pixel 7,2,599,india,pending
+1021,SARAH THOMPSON,Sarah.T@gmail.com,10/25/2023,apple watch series8,1,$399 ,spain,Delivered 
+1022,Aisha khan,aisha.khan@outlook.com,11/26/2023,AirPods Pro,two ,249,USA,shipped
+1023,ankit patel ,ankit@patel.com,11/08/2023,iPad Air ,1,$599 ,uk,Returned
+1024,emma brown,emma.brown@Yahoo.com,12/05/2023,IPHONE14 pro ,1,999,United kingdom,DELIVERED
+1025,liam wilson,liamwilson@gmail.com,12/22/2023,Samsung Galaxy S23,three,899,CANADA,Pending
+1026,OLIVIA garcia,olivia.garcia@Gmail.com,11/22/2023,mac book pro,2,"$1,299 ",u s a,delivered
+1027,Ethan CLARK,ethan.clark@yahoo.com,10/12/2023,GOOGLE Pixel 7a,1,499,United states,SHIPPED
+1028,SOPHIA lopez,sophia.lopez@gmail.com,12/27/2023,i phone 13,2,699,india,returned
+1029,david miller,david.miller@outlook,10/10/2023,Apple watch se,1,$249.00 ,SPAIN,Delivered
+1030,emily johnson,emily.johnson@Gmail.com ,11/04/2023,samsung GALAXY S22 ,two,849,Uk,pending
+1031,james anderson,james.anderson@gmail.com,12/20/2023,macbook pro ,3,"1,299.50",CANADA,Delivered
+1032,ISABELLA LEWIS,isabella.lewis@gmail.com,10/07/2023,Airpods pro,2,249,united kingdom,Shipped
+1033,daniel white ,daniel.white @gmail.com,10/04/2023,iPad Mini,one,$499 ,usa ,RETURNED
+1034,aarav PATEL,aaravpatel@gmail.com,12/11/2023,iPHONE 15 Pro,1,"1,099",UNITED STATES,delivered
+1035,fatima khan ,fatima.khan@outlook.com,10/29/2023,Samsung galaxy s23 ultra,2,999,india,Pending
+1036,noah davis,noahdavis@gmail.com,11/21/2023,MacBook Air,1,999,spain,Delivered 
+1037,mia rodriguez,mia.rodriguez@yahoo.com,11/28/2023,google pixel,2,$400 ,u.k.,returned
+1038,william MARTINEZ,william.martinez@gmail.com,11/18/2023,APPLE WATCH series 9,1,449,Canada,shipped
+1039,layla shah,layla.shah@outlook,12/20/2023,Iphone 14 pro ,three,999,United Kingdom,DELIVERED
+1040,benjamin taylor,ben.taylor@gmail.com,10/23/2023,samsung galaxy S22,1,849,INDIA,Pending
+1041,AMELIA thompson,amelia.thompson@gmail.com,11/30/2023,macbook air ,2,$999.00 ,Usa,delivered
+1042,lucas allen,lucas.allen@gmail.com,11/01/2023,airpods PRO ,two,249,SPAIN,Returned
+1043,CHARLOTTE wilson,charlottewilson@outlook.com,10/10/2023,iPad Air 5th gen,2,599.5,uk ,SHIPPED
+1044,henry evans,henry.evans@gmail.com,10/12/2023,IPHONE 14 plus,one,899,UNITED states,Delivered
+1045,chloe thomas,chloe.thomas@Yahoo.com,10/14/2023,Google Pixel 8,1,699,canada,pending
+1046,SEBASTIAN CARTER,sebastian.carter@gmail.com,10/30/2023,Apple watch 8,2,399,united kingdom,RETURNED
+1047,grace walker,grace.walker@ gmail.com,12/25/2023,samsung galaxy s21,three,$799 ,India,delivered
+1048,ALEXANDER YOUNG,alex.young@outlook.com,11/08/2023,MACBOOK pro,1,"1,299",spain,shipped
+1049,ella scott,ella.scott@gmail.com,10/21/2023,airPods,2,129,USA,Delivered 
+1050,logan mitchel,logan.mitchel@gmail.com,11/07/2023,Ipad 9th Gen,1,$329.00 ,united STATES,Pending
+1051,Aria  green,aria.green @gmail.com,11/11/2023,iphone 13 ,one,699,uk,DELIVERED
+1052,matthew baker,matthew.baker@yahoo.com,11/23/2023,samsung galaxy S22 ultra,3,"1,199",Canada ,returned
+1053,zara ali,zara.ali@gmail.com,12/01/2023,macBook PRO ,1,"1,299",UNITED KINGDOM,shipped
+1054,harper Hill,harperhill@gmail.com,11/04/2023,GOOGLE pixel 8,two,699,usa,Delivered
+1055,ryan adams,ryan.adams@outlook.com,12/14/2023,apple watch ultra ,1,$799.00 ,United states,pending
+1056,SOFIA KING,sofia.king@gmail.com,12/18/2023,IPHONE14 PRO,1,999,u.k.,RETURNED
+1057,nathan wright,nathan.wright@gmail.com,11/20/2023,samsung Galaxy s23,2,899,CANADA,DELIVERED
+1058,hannah  campbell,hannah.campbell@gmail.com,12/12/2023,macbook air ,two,999.5,India,shipped
+1059,Leo morgan,leo.morgan@outlook.com,12/18/2023,Airpods 2nd gen,2,179,spain,delivered 
+1060,ava flores,ava.flores@gmail.com,12/06/2023,ipad Air 4,1,599,UNITED kingdom,Returned
+1061,ADAM HUGHES,adam.hughes@gmail.com,11/29/2023,IPHONE 15 PRO,one,"1,099",usa,Pending
+1062,nora turner,nora.turner@gmail.com,12/07/2023,samsung Galaxy S24,1,999,United States ,SHIPPED
+1063,jack phillips,jack.phillips@Yahoo.com,10/24/2023,Macbook Pro ,2,"1,299.00",uk,Delivered
+1064,EMILY johnson,emily.johnson@Gmail.com,12/22/2023,apple watch series8 ,three,399,canada,returned
+1065,SARAH thompson,Sarah.T@gmail.com,12/25/2023,airpods pro ,1,$249 ,india,DELIVERED
+1066,leo watson  ,Leo.Watson@gmail.com,10/10/2023,i phone 13,2,699,india,returned
+1067,carlos hernandez,carlos@hernandez.com,11/14/2023,IPHONE 14 ,3,799,SPAIN,pending
+1068,sofia andrew  ,Sofia.Andrew@gmail.com,10/25/2023,Apple Watch Series 8,1,$399.00 ,usa,Delivered
+1069,Rayan Malik  ,rayanmalik@yahoo.com,11/07/2023,IPHONE 14 ,2,799,United States,delivered
+1070,claire bennett  ,claire.bennett@Hotmail.com,11/27/2023,Samsung galaxy s22,one,$849 ,U.K.,Shipped
+1071,MILA parker  ,Mila_parker@gmail.com,12/15/2023,macbook Pro ,3,"1,299",canada ,RETURNED
+1072,Noor ahmad  ,noor.ahmad@yahoo.com,11/07/2023,google pixel 7,2,599,india,pending
+1073,Jacob green  ,Jacob.Green@outlook.com,12/27/2023,apple watch series8,1,$399 ,spain,Delivered 
+1074,ALINA fernandez  ,alinafernandez@gmail.com,12/14/2023,AirPods Pro,two ,249,USA,shipped
+1075,haider ali  ,Haider.Ali@yahoo.com,11/02/2023,iPad Air ,1,$599 ,uk,Returned
+1076,Ella williams  ,ella.williams@hotmail.com,11/12/2023,IPHONE14 pro ,1,999,United kingdom,DELIVERED
+1077,nathan brown  ,NathanBrown@gmail.com,11/12/2023,Samsung Galaxy S23,three,899,CANADA,Pending
+1078,zoe khan  ,zoe.khan@yahOo.com,12/26/2023,mac book pro,2,"1,299",u s a,delivered
+1079,Farah siddiqui  ,farah.siddiqui@HotMail.com,11/25/2023,GOOGLE Pixel 7a,1,499,United states,SHIPPED
+1080,leo watson  ,Leo.Watson@gmail.com,10/27/2023,i phone 13,2,699,india,returned
+1081,mia GARCIA  ,mia.garcia@yahoo.com,12/15/2023,Apple watch se,1,$249.00 ,SPAIN,Delivered
+1082,Owen khan  ,Owen-Khan@hotmail.com,10/14/2023,samsung GALAXY S22 ,two,849,Uk,pending
+1083,laila khan  ,laila.khan@gmail.com,10/07/2023,macbook pro ,3,"1,299",CANADA,Delivered
+1084,zachary DAVIS  ,zachary.davis@OutLook.com,11/25/2023,Airpods pro,2,249,united kingdom,Shipped
+1085,harry potter  ,harry.potter@hotmail.com,12/20/2023,iPad Mini,one,499,usa ,RETURNED
+1086,amira saleh  ,AmiraSaleh@gmail.com,10/29/2023,iPHONE 15 Pro,1,"$1,099 ",UNITED STATES,delivered
+1087,adam SHEIKH  ,adam_sheikh@Yahoo.com,11/09/2023,Samsung galaxy s23 ultra,2,"1,299",india,Pending
+1088,diana wells  ,Diana.Wells@Hotmail.com,10/22/2023,MacBook Air,1,999.5,spain,Delivered 
+1089,MUSTAFA rehman  ,mustafa.rehman@outlook.com,11/19/2023,google pixel,2,$400 ,u.k.,returned
+1090,ruby cole  ,RubyCole@gmail.com,11/29/2023,APPLE WATCH series 9,1,449,Canada,shipped
+1091,JASON Lee  ,jason.lee@yahoo.com,10/29/2023,Iphone 14 pro ,three,999,United Kingdom,DELIVERED
+1092,huda khan  ,huda.khan@outlook.com,10/26/2023,samsung galaxy S22,1,$849 ,INDIA,Pending
+1093,Aaron White  ,aaron.white@Hotmail.com,11/24/2023,macbook air ,2,999,Usa,delivered
+1094,isabel MARTIN  ,isabel.MARTIN@gmail.com,10/13/2023,airpods PRO ,two,249,SPAIN,Returned
+1095,rayyan ahmad  ,rayyan.ahmad@yahoo.com,12/22/2023,iPad Air 5th gen,2,$599 ,uk ,SHIPPED
+1096,SANA malik  ,Sana.Malik@outlook.com,12/16/2023,IPHONE 14 plus,one,899,UNITED states,Delivered
+1097,rebecca george  ,rebecca.george@hotmail.com,12/24/2023,Google Pixel 8,1,699,canada,pending
+1098,ayesha khan  ,ayesha.khan@gmail.com,12/17/2023,Apple watch 8,2,399,united kingdom,RETURNED
+1099,Khalid farooq  ,khalid.farooq@Yahoo.com,12/23/2023,samsung galaxy s21,three,$799 ,India,delivered
+1100,NINA patel  ,nina.patel@outlook.com,11/22/2023,MACBOOK pro,1,"1,299",spain,shipped
+1101,omar rahman  ,omar.rahman@gmail.com,11/01/2023,airPods,2,129,USA,Delivered 
+1102,ZARA hussain  ,zara_hussain@yahoo.com,10/06/2023,Ipad 9th Gen,1,$329 ,united STATES,Pending
+1103,Sofia Andrew,Sofia.Andrew@gmail.com,11/11/2023,iphone 13 ,one,699,uk,DELIVERED
+1104,Rayan Malik,rayanmalik@yahoo.com,11/16/2023,samsung galaxy S22 ultra,3,"1,199",USA,returned
+1105,Claire Bennett,claire.bennett@Hotmail.com,12/10/2023,macBook PRO ,1,"1,299",UNITED KINGDOM,shipped
+1106,Mila Parker,Mila_parker@gmail.com,10/10/2023,GOOGLE pixel 8,two,699,usa,Delivered
+1107,Noor Ahmad,noor.ahmad@yahoo.com,12/10/2023,apple watch ultra ,1,799,United states,pending
+1108,Jacob Green,Jacob.Green@outlook.com,12/30/2023,IPHONE14 PRO,1,$999 ,u.k.,RETURNED
+1109,Alina Fernandez,alinafernandez@gmail.com,10/01/2023,samsung Galaxy s23,2,899,CANADA,DELIVERED
+1110,Haider Ali,Haider.Ali@yahoo.com,11/16/2023,macbook air ,two,$999.50 ,India,shipped
+1111,Ella Williams,ella.williams@hotmail.com,11/11/2023,Airpods 2nd gen,2,179,spain,delivered 
+1112,Nathan Brown,NathanBrown@gmail.com,12/30/2023,ipad Air 4,1,$599 ,UNITED kingdom,Returned
+1113,Zoe Khan,zoe.khan@yahOo.com,10/20/2023,IPHONE 15 PRO,one,"1,099",usa,Pending
+1114,Farah Siddiqui,farah.siddiqui@HotMail.com,11/19/2023,samsung Galaxy S24,1,999,United States ,SHIPPED
+1115,Leo Watson,Leo.Watson@gmail.com,11/14/2023,Macbook Pro ,2,"$1,299 ",uk,Delivered
+1116,Mia Garcia,mia.garcia@yahoo.com,11/29/2023,apple watch series8 ,three,399,canada,returned
+1117,Owen Khan,Owen-Khan@hotmail.com,11/05/2023,airpods pro ,1,249,india,DELIVERED
+1118,Laila Khan,laila.khan@gmail.com,10/01/2023,IPHONE 14 ,2,799,SPAIN,pending
+1119,Zachary Davis,zachary.davis@OutLook.com,11/21/2023,mac book pro,2,"$1,299 ",UNITED kingdom,
+1120,Harry Potter,harry.potter@hotmail.com,11/24/2023,GOOGLE Pixel 7a,2,$499 ,canada,
+1121,Amira Saleh,AmiraSaleh@gmail.com,11/04/2023,i phone 13,1,699,spain,
+1122,Adam Sheikh,adam_sheikh@Yahoo.com,12/24/2023,Samsung galaxy s23 ultra,2,"1,299",india,delivered
+1123,Diana Wells,Diana.Wells@Hotmail.com,11/26/2023,Apple Watch,1,$200 ,spain,
+1124,MUSTAFA rehman  ,mustafa.rehman@outlook.com,11/30/2023,google pixel,2,$400 ,u.k.,returned
+1125,Ruby Cole,RubyCole@gmail.com,10/05/2023,samsung galaxy s23,1,899,spain,
+1126,Jason Lee,jason.lee@yahoo.com,11/15/2023,Iphone 14 pro ,three,$999.00 ,United Kingdom,DELIVERED
+1127,Huda Khan,huda.khan@outlook.com,11/18/2023,aiprpods,3,129,spain,
+1128,Aaron White,aaron.white@Hotmail.com,12/09/2023,macbook air ,2,999.5,Usa,refunded
+1129,Isabel Martin,isabel.MARTIN@gmail.com,11/16/2023,Apple Watch,1,$200 ,usa,delivered
+1130,Rayyan Ahmad,rayyan.ahmad@yahoo.com,10/01/2023,apple watch,2,200,USA,Delivered
+1131,Sana Malik,Sana.Malik@outlook.com,12/27/2023,Samsung Galaxy S22,1,$849.00 ,United States,delivered
+1132,Rebecca George,rebecca.george@hotmail.com,11/26/2023,Google Pixel,1,400,UK,Shipped
+1133,Ayesha Khan,ayesha.khan@gmail.com,12/01/2023,Samsung Galaxy S22,1,$849 ,United Kingdom,RETURNED
+1134,Khalid Farooq,khalid.farooq@Yahoo.com,12/24/2023,NULL,1,$0.00 ,india,pending
+1135,Nina Patel,nina.patel@outlook.com,11/29/2023,Apple Watch,1,$200 ,usa,Delivered 
+1136,Omar Rahman,omar.rahman@gmail.com,11/05/2023,Iphone 14,1,799,spain,shipped
+1137,Zara Hussain,zara_hussain@yahoo.com,12/05/2023,Macbook Pro,1,"$1,299 ",canada,Returned
+1138,Liam Smith,liam.smith@gmail.com,12/03/2023,MacBook Pro,2,"1,299",CANADA,DELIVERED
+1139,Emma Johnson,EmmaJohnson@Yahoo.com,11/26/2023,Samsung Galaxy S22,2,849,US,Pending
+1140,Olivia Brown,Olivia.brown@HotMail.com,10/01/2023,Google pixel,3,400,uk,delivered
+1141,Noah Jones,noah_jones@gmail.com,10/23/2023,SAMSUNG GALAXY S22,1,849,UK,SHIPPED
+1142,Ava Garcia,ava.garcia@yahoo.com,10/11/2023,Samsung Galaxy S22,2,849,India,returned
+1143,William Martinez,william.martinez@outlook.com,12/17/2023,iPhone 14,3,$799 ,Spain,Delivered
+1144,Sophia Lee,sophia.lee@gmail.com,11/24/2023,Apple Watch Series 8,1,399,usa,pending
+1145,James Wilson,james.wilson@yahoo.com,10/24/2023,IPHONE 14 ,2,$799 ,United States,Delivered
+1146,Isabella Taylor,IsabellaTaylor@hotmail.com,10/25/2023,Samsung galaxy s22,4,849,U.K.,Shipped
+1147,Benjamin Anderson,benjamin.anderson@gmail.com,10/30/2023,macbook Pro ,3,"1,299",canada ,RETURNED
+1148,Mason Thomas,mason.thomas@Yahoo.com,12/31/2023,google pixel 7,1,599,india,delivered
+1149,Mia Hernandez,Mia_Hernandez@hotmail.com,10/08/2023,apple watch series8,4,$399 ,spain,Pending
+1150,Ethan Moore,ethan.moore@gmail.com,10/19/2023,AirPods Pro,1,249,USA,Delivered 
+1151,Charlotte Martin,CharlotteMartin@yahoo.com,11/24/2023,iPad Air ,1,$599 ,uk,returned
+1152,Alexander Jackson,alexander.jackson@Hotmail.com,11/08/2023,IPHONE14 pro ,1,999,United kingdom,shipped
+1153,Amelia White,amelia.white@gmail.com,10/17/2023,Samsung Galaxy S23,1,899,CANADA,DELIVERED
+1154,Michael Harris,michael.harris@outlook.com,12/08/2023,mac book pro,1,"$1,299 ",u s a,Pending
+1155,Harper Clark,harper.clark@gmail.com,11/13/2023,GOOGLE Pixel 7a,1,499,United states,delivered
+1156,Daniel Lewis,daniel.lewis@yahoo.com,11/11/2023,i phone 13,2,699,india,Returned
+1157,Evelyn Robinson,EvelynRobinson@Hotmail.com,12/14/2023,Apple watch se,2,249,SPAIN,SHIPPED
+1158,Matthew Walker,matthew.walker@gmail.com,12/30/2023,samsung GALAXY S22 ,2,849,Uk,Delivered
+1159,Abigail Young,abigail.young@Yahoo.com,11/07/2023,macbook pro ,2,"1,299",CANADA,pending
+1160,Joseph Hall,Joseph.Hall@hotmail.com,10/19/2023,Airpods pro,1,249,united kingdom,RETURNED
+1161,Emily Allen,emily.allen@gmail.com,12/12/2023,iPad Mini,1,$499 ,usa ,delivered
+1162,Samuel King,samuel.king@outlook.com,10/22/2023,iPHONE 15 Pro,1,"$1,099 ",UNITED STATES,shipped
+1163,Ella Wright,EllaWright@yahoo.com,12/11/2023,Samsung galaxy s23 ultra,2,"$1,299 ",india,Delivered 
+1164,David Scott,david.scott@Hotmail.com,12/28/2023,MacBook Air,4,999,spain,Pending
+1165,Scarlett Hill,Scarlett.Hill@gmail.com,12/01/2023,google pixel,3,400,u.k.,DELIVERED
+1166,Henry Adams,henry.adams@outlook.com,11/28/2023,APPLE WATCH series 9,2,$449 ,Canada,returned
+1167,Victoria Baker,Victoria.Baker@yahoo.com,11/10/2023,Iphone 14 pro ,1,999,United Kingdom,shipped
+1168,Jackson Nelson,jackson.nelson@gmail.com,11/01/2023,samsung galaxy S22,1,849,INDIA,Delivered
+1169,Grace Carter,grace.carter@Hotmail.com,11/25/2023,macbook air ,1,$999 ,Usa,pending
+1170,Sebastian Mitchell,sebastian.mitchell@gmail.com,11/28/2023,airpods PRO ,1,249,SPAIN,RETURNED
+1171,Chloe Perez,chloe.perez@yahoo.com,11/27/2023,iPad Air 5th gen,2,$599 ,uk ,DELIVERED
+1172,Gabriel Roberts,gabriel.roberts@outlook.com,12/01/2023,IPHONE 14 plus,2,$899.00 ,UNITED states,shipped
+1173,Lily Turner,lily.turner@gmail.com,11/24/2023,Google Pixel 8,2,699,canada,delivered 
+1174,Nathaniel Phillips,nathaniel.phillips@yahoo.com,12/12/2023,Apple watch 8,3,$399 ,united kingdom,Returned
+1175,Sofia Campbell,sofia.campbell@gmail.com,10/23/2023,samsung galaxy s21,4,799,India,Pending
+1176,Christopher Parker,christopher.parker@Hotmail.com,10/24/2023,MACBOOK pro,3,"$1,299.00 ",spain,SHIPPED
+1177,Penelope Evans,penelope.evans@gmail.com,12/17/2023,airPods,3,129,USA,Delivered
+1178,Anthony Edwards,anthony.edwards@yahoo.com,10/20/2023,Ipad 9th Gen,3,329,united STATES,returned
+1179,Hannah Collins,hannah.collins@outlook.com,10/20/2023,iphone 13 ,2,$699 ,uk,DELIVERED
+1180,Andrew Stewart,andrew.stewart@gmail.com,10/30/2023,samsung galaxy S22 ultra,2,"1,199",Canada ,returned
+1181,Lillian Sanchez,lillian.sanchez@yahoo.com,12/22/2023,macBook PRO ,2,"$1,299 ",UNITED KINGDOM,pending
+1182,Joshua Morris,joshua.morris@Hotmail.com,11/07/2023,GOOGLE pixel 8,2,699,usa,Delivered
+1183,Aria Rogers,aria.rogers@gmail.com,10/12/2023,apple watch ultra ,2,799,United states,delivered
+1184,Caleb Reed,caleb.reed@yahoo.com,10/14/2023,IPHONE14 PRO,2,$999 ,u.k.,Shipped
+1185,Layla Cook,layla.cook@outlook.com,11/17/2023,samsung Galaxy s23,2,899,CANADA,RETURNED
+1186,Ryan Morgan,ryan.morgan@gmail.com,12/28/2023,macbook air ,2,$999 ,India,pending
+1187,Zoe Bell,zoe.bell@yahoo.com,10/22/2023,Airpods 2nd gen,2,179,spain,Delivered 
+1188,Dylan Murphy,dylan.murphy@HotMail.com,12/18/2023,ipad Air 4,1,599,UNITED kingdom,shipped
+1189,Nora Bailey,nora.bailey@gmail.com,11/17/2023,IPHONE 15 PRO,1,"1,099",usa,Returned
+1190,Leo Rivera,leo.rivera@yahoo.com,10/06/2023,samsung Galaxy S24,1,$999 ,United States ,DELIVERED
+1191,Stella Cooper,stella.cooper@outlook.com,10/03/2023,Macbook Pro ,1,"1,299",uk,Pending
+1192,Aaron Richardson,aaron.richardson@gmail.com,11/19/2023,apple watch series8 ,1,399,canada,delivered
+1193,Violet Cox,violet.cox@yahoo.com,12/14/2023,airpods pro ,1,249,india,SHIPPED
+1194,Isaac Howard,isaac.howard@Hotmail.com,10/03/2023,i phone 13,1,699,india,returned
+1195,Aurora Ward,aurora.ward@gmail.com,11/12/2023,IPHONE 14 ,1,799,SPAIN,Delivered
+1196,Thomas Peterson,thomas.peterson@outlook.com,12/23/2023,Apple Watch Series 8,1,399,usa,pending
+1197,Paisley Gray,paisley.gray@yahoo.com,11/19/2023,IPHONE 14 ,1,799,United States,Delivered
+1198,Julian James,julian.james@gmail.com,10/30/2023,Samsung galaxy s22,1,$849.00 ,U.K.,Shipped
+1199,Savannah Hughes,savannah.hughes@Hotmail.com,11/10/2023,macbook Pro ,1,"1,299",canada ,RETURNED
+1200,Hunter Foster,hunter.foster@gmail.com,10/06/2023,google pixel 7,1,$599.50 ,india,delivered
+1201,Claire Simmons,claire.simmons@yahoo.com,12/21/2023,apple watch series8,1,$399 ,spain,Pending
+1202,Cameron Bryant,cameron.bryant@outlook.com,11/29/2023,AirPods Pro,1,249,USA,Delivered 
+1203,Brooklyn Barnes,brooklyn.barnes@gmail.com,12/14/2023,iPad Air ,1,$599 ,uk,returned
+1204,Connor Russell,connor.russell@yahoo.com,10/02/2023,IPHONE14 pro ,2,$999 ,United kingdom,shipped
+1205,Eleanor Griffin,eleanor.griffin@HotMail.com,11/06/2023,Samsung Galaxy S23,2,$899 ,CANADA,DELIVERED
+1206,Christian Diaz,christian.diaz@gmail.com,11/18/2023,mac book pro,2,"$1,299.00 ",u s a,Pending
+1207,Hazel Hayes,hazel.hayes@yahoo.com,12/23/2023,GOOGLE Pixel 7a,1,499,United states,delivered
+1208,Brayden Myers,brayden.myers@outlook.com,12/16/2023,i phone 13,2,699,india,Returned
+1209,Aurora Long,aurora_long@gmail.com,11/29/2023,Apple watch se,1,$249 ,SPAIN,SHIPPED
+1210,Ethan Walker,Ethan.Walker@gmail.com,11/20/2023,samsung GALAXY S22 ,2,849,Uk,Delivered
+1211,Ava Hughes,AvaHughes@yahoo.com,10/05/2023,macbook pro ,1,"$1,299.00 ",CANADA,pending
+1212,Liam Thompson,liam.thompson@Hotmail.com,10/16/2023,Airpods pro,2,249,united kingdom,RETURNED
+1213,Olivia Brooks,olivia_brooks@gmail.com,10/28/2023,iPad Mini,1,499,usa ,delivered
+1214,Noah Peterson,Noah.Peterson@outlook.com,10/20/2023,iPHONE 15 Pro,3,"1,099.00",UNITED STATES,shipped
+1215,Sophia Bryant,sophia.bryant@yahoo.com,10/31/2023,Samsung galaxy s23 ultra,1,"$1,299 ",india,Delivered 
+1216,Mason Edwards,Mason.Edwards@gmail.com,10/13/2023,MacBook Air,3,999,spain,Pending
+1217,Isabella Ross,Isabella.Ross@HotMail.com,12/22/2023,google pixel,3,400,u.k.,DELIVERED
+1218,Lucas Gray,LucasGray@gmail.com,12/12/2023,APPLE WATCH series 9,3,$449 ,Canada,returned
+1219,Mia Foster,Mia_Foster@yahoo.com,10/05/2023,Iphone 14 pro ,1,999,United Kingdom,shipped
+1220,Logan Bennett,Logan.Bennett@outlook.com,11/01/2023,samsung galaxy S22,3,$849 ,INDIA,Delivered
+1221,Charlotte Ward,CharlotteWard@gmail.com,12/22/2023,iPad Mini,1,$499 ,Usa,pending
+1222,Jacob Simmons,jacob.simmons@yahoo.com,10/14/2023,Iphone 14 pro ,2,999,usa,shipped
+1223,Amelia Cox,Amelia.Cox@Hotmail.com,12/19/2023,Apple watch 8,2,399,United kingdom,Delivered 
+1224,Alexander Richardson,Alexander-Richardson@gmail.com,10/25/2023,samsung galaxy s21,2,799,CANADA,Pending
+1225,Harper Bailey,harper.bailey@yahoo.com,10/27/2023,MACBOOK pro,1,"1,299.00",u s a,DELIVERED
+1226,Michael Powell,MichaelPowell@outlook.com,10/19/2023,airPods,1,129,United states,returned
+1227,Evelyn Jenkins,Evelyn.Jenkins@gmail.com,11/20/2023,Ipad 9th Gen,1,$329 ,india,shipped
+1228,Daniel Long,daniel.long@yahoo.com,11/13/2023,iphone 13 ,3,699,SPAIN,Delivered
+1229,Abigail Hayes,Abigail.Hayes@HotMail.com,10/18/2023,samsung Galaxy S24,1,999,Uk,pending
+1230,Matthew Bryant,MatthewBryant@gmail.com,10/12/2023,samsung Galaxy S24,1,999,CANADA,shipped
+1231,Emily Butler,Emily.Butler@yahoo.com,10/02/2023,iphone,1,$699 ,us,pending
+1232,Joseph Coleman,Joseph.Coleman@outlook.com,10/11/2023,airpods pro ,1,249,United kingdom,Delivered 
+1233,Ella Fisher,Ella_Fisher@gmail.com,12/17/2023,i phone 13,1,699,CANADA,Pending
+1234,David Grant,David.Grant@yahoo.com,10/20/2023,IPHONE 14 ,2,$799 ,u s a,DELIVERED
+1235,Scarlett Foster,ScarlettFoster@Hotmail.com,10/01/2023,Apple Watch Series 8,2,399,United states,returned
+1236,Samuel Price,Samuel.Price@gmail.com,11/17/2023,IPHONE 14 ,2,799,india,shipped
+1237,Victoria Perry,VictoriaPerry@yahoo.com,10/29/2023,Samsung galaxy s22,2,849,SPAIN,Delivered
+1238,Henry Morgan,Henry.Morgan@outlook.com,10/30/2023,macbook Pro ,2,"$1,299 ",Uk,pending
+1239,Grace Jenkins,Grace.Jenkins@gmail.com,10/20/2023,google pixel 7,2,599,CANADA,shipped
+1240,Owen Patterson,Owen.Patterson@yahoo.com,12/18/2023,apple watch series8,3,$399.00 ,United kingdom,Delivered 
+1241,Chloe Flores,Chloe.Flores@Hotmail.com,10/29/2023,AirPods Pro,3,249,CANADA,Pending
+1242,Caleb Russell,CalebRussell@gmail.com,12/28/2023,iPad Air ,3,$599 ,u s a,DELIVERED
+1243,Lillian James,Lillian.James@yahoo.com,10/25/2023,IPHONE14 pro ,1,999,United states,returned
+1244,Nathaniel Rivera,Nathaniel.Rivera@outlook.com,12/26/2023,Samsung Galaxy S23,2,899,india,shipped
+1245,Avery Sullivan,Avery_Sullivan@gmail.com,11/27/2023,mac book pro,1,"$1,299 ",SPAIN,Delivered
+1246,Isaac Gonzales,Isaac.Gonzales@yahoo.com,11/23/2023,GOOGLE Pixel 7a,1,$499.00 ,Uk,pending
+1247,Aria Wallace,Aria.Wallace@Hotmail.com,12/11/2023,i phone 13,1,699,CANADA,shipped
+1248,Sebastian Hamilton,Sebastian.Hamilton@gmail.com,10/05/2023,Apple watch se,1,$249 ,CANADA,shipped
+1249,Sofia Graham,Sofia.Graham@yahoo.com,10/02/2023,samsung GALAXY S22 ,1,849,u s a,Delivered 
+1250,Jackson Woods,Jackson.Woods@outlook.com,10/16/2023,macbook pro ,1,"$1,299 ",United states,Pending
+1251,Aurora West,Aurora_West@gmail.com,10/04/2023,Airpods pro,1,249,india,DELIVERED
+1252,Gabriel Stone,Gabriel.Stone@yahoo.com,11/14/2023,macbook,2,$999 ,canada,pending
+1253,Penelope Reynolds,Penelope.Reynolds@Hotmail.com,11/06/2023,iPad Mini,2,499,United kingdom,Delivered
+1254,Anthony Cole,Anthony.Cole@gmail.com,11/23/2023,Apple Watch,2,$200 ,CANADA,delivered
+1255,Hazel Bryant,Hazel.Bryant@yahoo.com,12/30/2023,apple watch,2,$200 ,u s a,shipped
+1256,Christopher Ford,Christopher.Ford@outlook.com,11/30/2023,Samsung Galaxy S22,1,$849 ,United states,Delivered
+1257,Nora Powell,Nora.Powell@gmail.com,10/02/2023,Google Pixel,1,$400 ,india,returned
+1258,Joshua Bell,Joshua.Bell@yahoo.com,12/29/2023,Samsung Galaxy S22,two,$849 ,SPAIN,pending
+1259,Paisley Bryant,Paisley_Bryant@Hotmail.com,11/23/2023,NULL,1,0,Uk,delivered
+1260,Andrew Hunt,Andrew.Hunt@gmail.com,12/10/2023,Apple Watch,2,$200 ,CANADA,DELIVERED
+1261,Layla Matthews,Layla.Matthews@yahoo.com,10/07/2023,Iphone 14,1,799,united kingdom,returned
+1262,Jonathan Daniels,Jonathan.Daniels@outlook.com,10/18/2023,Macbook Pro,1,"$1,299 ",usa ,Returned
+1263,Riley Fisher,Riley.Fisher@gmail.com,10/02/2023,MacBook Pro,1,"1,299.00",UNITED STATES,refunded
+1264,Cameron Tucker,Cameron_Tucker@yahoo.com,11/28/2023,Samsung Galaxy S22,1,849,india,Delivered
+1265,Lillian Hayes,Lillian.Hayes@Hotmail.com,11/29/2023,Google pixel,1,400,spain,Returned
+1266,Connor Simmons,Connor.Simmons@gmail.com,12/08/2023,SAMSUNG GALAXY S22,2,$849 ,u.k.,Pending
+1267,Violet Russell,Violet.Russell@yahoo.com,12/08/2023,Samsung Galaxy S22,1,849,Canada,delivered
+1268,Hunter Perry,Hunter.Perry@outlook.com,11/14/2023,iPhone 14,2,$799 ,United Kingdom,Delivered
+1269,Stella Foster,Stella_Foster@gmail.com,11/01/2023,Apple Watch Series 8,1,399,INDIA,delivered
+1270,Christian Torres,Christian.Torres@yahoo.com,12/15/2023,IPHONE 14 ,1,$799.00 ,Usa,Shipped
+1271,Aurora Ward,Aurora.Ward@Hotmail.com,10/26/2023,Samsung galaxy s22,1,849,SPAIN,RETURNED
+1272,Aaron Jenkins,Aaron.Jenkins@gmail.com,11/12/2023,macbook Pro ,2,"$1,299 ",uk ,pending
+1273,Zoe Sanders,Zoe.Sanders@yahoo.com,12/05/2023,google pixel 7,one,599,UNITED states,Delivered 
+1274,Nicholas Russell,Nicholas.Russell@outlook.com,10/03/2023,apple watch series8,3,399,canada,shipped
+1275,Mia Howard,Mia.Howard@gmail.com,10/15/2023,AirPods Pro,2,$249 ,united kingdom,Returned
+1276,Brayden Cooper,Brayden.Cooper@yahoo.com,10/21/2023,iPad Air ,1,599,India,DELIVERED
+1277,Ella Hughes,Ella_Hughes@Hotmail.com,10/29/2023,IPHONE14 pro ,two ,999,spain,Pending
+1278,Dominic Flores,Dominic.Flores@gmail.com,10/04/2023,Samsung Galaxy S23,1,899,USA,delivered
+1279,Amelia Patterson,Amelia.Patterson@yahoo.com,10/12/2023,mac book pro,1,"1,299",united STATES,SHIPPED
+1280,Landon Ross,Landon.Ross@outlook.com,10/18/2023,GOOGLE Pixel 7a,three,499,uk,returned
+1281,Harper Gray,Harper.Gray@gmail.com,10/22/2023,i phone 13,2,$699 ,USA,Delivered
+1282,Jonathan Parker,Jonathan.Parker@yahoo.com,10/31/2023,Apple watch se,1,249,UNITED KINGDOM,pending
+1283,Avery Bennett,Avery_Bennett@HotMail.com,10/07/2023,samsung GALAXY S22 ,2,849,usa,Delivered
+1284,Leo Rivera,Leo.Rivera@gmail.com,10/25/2023,macbook pro ,1,"1,299",United states,Shipped
+1285,Penelope Price,Penelope.Price@yahoo.com,10/08/2023,Airpods pro,two,$249 ,u.k.,RETURNED
+1286,Nathaniel Jenkins,Nathaniel.Jenkins@outlook.com,10/11/2023,iPad Mini,3,499,CANADA,delivered
+1287,Scarlett Perry,Scarlett.Perry@gmail.com,10/16/2023,iPHONE 15 Pro,2,"$1,099 ",India,Pending
+1288,Colton Bell,Colton.Bell@yahoo.com,10/24/2023,Samsung galaxy s23 ultra,one,"1,299",spain,Delivered 
+1289,Isabella Bailey,Isabella.Bailey@Hotmail.com,10/20/2023,MacBook Air,1,$999 ,UNITED kingdom,returned
+1290,Eli Foster,Eli.Foster@gmail.com,10/09/2023,google pixel,2,400,usa,shipped
+1291,Grace Butler,Grace.Butler@yahoo.com,10/13/2023,APPLE WATCH series 9,1,449,United States ,DELIVERED
+1292,Miles Richardson,Miles.Richardson@outlook.com,10/27/2023,Iphone 14 pro ,2,999,uk,Pending
+1293,Aria Long,Aria.Long@gmail.com,10/14/2023,samsung galaxy S22,1,849,canada,delivered
+1294,Julian Patterson,Julian.Patterson@yahoo.com,10/05/2023,macbook air ,three,999,india,Returned
+1295,Victoria Adams,Victoria.Adams@HotMail.com,10/28/2023,airpods PRO ,1,249,SPAIN,SHIPPED
+1296,Levi James,Levi.James@gmail.com,10/17/2023,iPad Air 5th gen,2,$599 ,UNITED kingdom,Delivered
+1297,Chloe Coleman,Chloe.Coleman@yahoo.com,10/06/2023,IPHONE 14 plus,two,899,canada,pending
+1298,David Foster,David.Foster@outlook.com,10/23/2023,Google Pixel 8,2,699,spain,RETURNED
+1299,Hannah Powell,Hannah.Powell@gmail.com,10/19/2023,Apple watch 8,one,399,india,delivered
+1300,Isaac Reed,Isaac.Reed@yahoo.com,10/30/2023,samsung galaxy s21,1,799,spain,shipped
+1301,Lillian Murphy,Lillian.Murphy@Hotmail.com,10/01/2023,MACBOOK pro,2,"1,299",u.k.,Delivered 
+1302,Sebastian Barnes,Sebastian.Barnes@gmail.com,10/02/2023,airPods,three,129,spain,Pending
+1303,Aurora Jenkins,Aurora.Jenkins@yahoo.com,10/10/2023,Ipad 9th Gen,1,329,United Kingdom,DELIVERED
+1304,Carter Hughes,Carter.Hughes@outlook.com,10/26/2023,iphone 13 ,2,699,spain,returned
+1305,Sofia Bryant,Sofia.Bryant@gmail.com,11/01/2023,samsung galaxy S22 ultra,1,"1,199",Usa,shipped
+1306,Nathan Howard,Nathan.Howard@yahoo.com,11/05/2023,macBook PRO ,one,"$1,299 ",usa,Delivered
+1307,Hazel Bell,Hazel.Bell@HotMail.com,11/02/2023,GOOGLE pixel 8,3,699,USA,pending
+1308,Christian Ross,Christian.Ross@gmail.com,11/07/2023,apple watch ultra ,1,799,United States,RETURNED
+1309,Violet Rivera,Violet.Rivera@yahoo.com,11/03/2023,IPHONE14 PRO,two,999,UK,DELIVERED
+1310,Josiah Gray,Josiah.Gray@outlook.com,11/06/2023,samsung Galaxy s23,1,899,United Kingdom,shipped
+1311,Nora Russell,Nora.Russell@gmail.com,11/04/2023,macbook air ,1,999,india,returned
+1312,Dominic Jenkins,Dominic.Jenkins@outlook.com,11/08/2023,airpods,2,129,canada,delivered
+1313,Emily Sanders,Emily.Sanders@Hotmail.com,11/10/2023,macbook air ,two,999,uk,cancelled
+1314,Ezekiel Bell,Ezekiel.Bell@gmail.com,11/12/2023,airpods PRO ,2,249,uk,delivered
+1315,Paisley Coleman,Paisley.Coleman@yahoo.com,11/09/2023,iPad Air 5th gen,1,599,usa,shipped
+1316,Leo Powell,Leo.Powell@outlook.com,11/11/2023,IPHONE 14 plus,one,899,canada,pending
+1317,Layla Richardson,Layla.Richardson@gmail.com,11/13/2023,Google Pixel 8,1,699,India,returned
+1318,Anthony Foster,Anthony.Foster@yahoo.com,11/14/2023,Apple watch 8,2,399,United Kingdom,cancelled
+1319,Lillian Adams,Lillian.Adams@Hotmail.com,11/15/2023,samsung galaxy s21,three,799,india,pending
+1320,Hunter Sanders,Hunter.Sanders@gmail.com,11/16/2023,MACBOOK pro,1,"1,299",canada,pending
+1321,Aurora Rivera,Aurora.Rivera@yahoo.com,11/17/2023,airPods,2,129,United States,cancelled
+1322,Maverick Jenkins,Maverick.Jenkins@outlook.com,11/18/2023,Ipad 9th Gen,3,329,india,refunded
+1323,Scarlett Torres,Scarlett.Torres@gmail.com,11/19/2023,iphone 13 ,1,699,india,refunded
+1324,Gabriel Perry,Gabriel.Perry@yahoo.com,11/20/2023,samsung galaxy S22 ultra,2,"1,199",canada,returned
+1325,Aria Bell,Aria.Bell@HotMail.com,11/21/2023,macBook PRO ,one,"1,299",us,shipped
+1326,Cameron Gray,Cameron.Gray@gmail.com,11/22/2023,GOOGLE pixel 8,3,699,canada,Delivered
+1327,Ella Coleman,Ella.Coleman@yahoo.com,11/23/2023,apple watch ultra ,2,799,spain,pending
+1328,Jackson James,Jackson.James@outlook.com,11/24/2023,IPHONE14 PRO,1,999,usa,RETURNED
+1329,Victoria Foster,Victoria.Foster@gmail.com,11/25/2023,samsung Galaxy s23,two ,899,India,DELIVERED
+1330,Samuel Jenkins,Samuel.Jenkins@yahoo.com,11/26/2023,macbook air ,1,999,u.k.,shipped
+1331,Avery Ross,Avery.Ross@Hotmail.com,11/27/2023,Airpods 2nd gen,1,179,u.k.,returned
+1332,Henry Patterson,Henry.Patterson@gmail.com,11/28/2023,ipad Air 4,three,599,canada,delivered
+1333,Grace Bell,Grace.Bell@yahoo.com,11/29/2023,IPHONE 15 PRO,2,"1,099",canada,cancelled
+1334,Landon Jenkins,Landon.Jenkins@outlook.com,11/30/2023,samsung Galaxy S24,1,999,u.k.,delivered
+1335,Chloe Adams,Chloe.Adams@gmail.com,12/01/2023,Macbook Pro ,2,"$1,299 ",u.k.,shipped
+1336,Ethan Rivera,Ethan.Rivera@yahoo.com,12/02/2023,apple watch series8 ,1,399,United States,pending
+1337,Nora Bell,Nora.Bell@HotMail.com,12/03/2023,airpods pro ,two,249,India,returned
+1338,Mason Ross,Mason.Ross@gmail.com,12/04/2023,IPHONE 14 ,3,799,india,cancelled
+1339,Aurora Butler,Aurora.Butler@yahoo.com,12/05/2023,mac book pro,2,"$1,299 ",u s a,pending
+1340,Jacob Patterson,Jacob.Patterson@outlook.com,12/06/2023,GOOGLE Pixel 7a,one,499,usa,pending
+1341,Violet Jenkins,Violet.Jenkins@gmail.com,12/07/2023,i phone 13,1,699,spain,cancelled
+1342,Alexander Russell,Alexander.Russell@yahoo.com,12/08/2023,Samsung galaxy s23 ultra,2,"1,299",usa,refunded
+1343,Lillian Rivera,Lillian.Rivera@Hotmail.com,12/09/2023,Apple Watch,1,200,India,refunded
+1344,Michael Bell,Michael.Bell@gmail.com,12/10/2023,google pixel,2,400,spain,shipped
+1345,Penelope Hughes,hughes.pene@gmail.com,12/11/2023,iphone,1,699,uk,cancelled
+1346,Daniel Coleman,Daniel.Coleman@yahoo.com,12/12/2023,GOOGLE Pixel 7a,three,499,Spain,shipped
+1347,Hazel Adams,hazel.adams12@gmail.com,12/13/2023,macbook,1,999,canada,pending
+1348,Matthew Jenkins,Matthew.Jenkins@outlook.com,12/14/2023,GOOGLE Pixel 7a,2,499,UNITED states,Delivered
+1349,Layla Powell,Layla.Powell@gmail.com,12/15/2023,airpods pro ,two,249,canada,delivered
+1350,Joseph Foster,Joseph.Foster@yahoo.com,12/16/2023,IPHONE 14 ,2,$799.00 ,united kingdom,shipped
+1351,Aria Bell,Aria.Bell@HotMail.com,12/17/2023,mac book pro,one,"1,299",India,Delivered
+1352,David Rivera,David.Rivera@gmail.com,12/18/2023,GOOGLE Pixel 7a,1,$499 ,spain,returned
+1353,Scarlett Adams,Scarlett.Adams@yahoo.com,12/19/2023,i phone 13,2,699,USA,pending
+1354,Samuel Jenkins,Samuel.Jenkins@outlook.com,12/20/2023,Samsung galaxy s23 ultra,three,"1,299.00",united STATES,delivered
+1355,Aurora Ross,Aurora.Ross@gmail.com,12/21/2023,Apple Watch,1,200,uk,DELIVERED
+1356,Henry Foster,Henry.Foster@yahoo.com,12/22/2023,google pixel,2,400,Canada ,returned
+1357,Violet Jenkins,Violet.Jenkins@HotMail.com,12/23/2023,samsung galaxy s23,1,$899 ,UNITED KINGDOM,Returned
+1358,Owen Bell,Owen.Bell@gmail.com,12/24/2023,Iphone 14 pro ,one,$999 ,usa,refunded
+1359,Chloe Richardson,Chloe.Richardson@yahoo.com,12/25/2023,aiprpods,3,129,United states,Delivered
+1360,Nathaniel Rivera,Nathaniel.Rivera@outlook.com,12/26/2023,macbook air ,1,$999.00 ,u.k.,Returned
+1361,Paisley Jenkins,Paisley.Jenkins@gmail.com,12/27/2023,Apple Watch,two,200,CANADA,Pending
+1362,Isaac Foster,Isaac.Foster@yahoo.com,12/28/2023,apple watch,1,200,India,delivered
+1363,Aria Adams,Aria.Adams@Hotmail.com,12/29/2023,Samsung Galaxy S22,1,$849 ,spain,Delivered
+1364,Sebastian Bell,Sebastian.Bell@gmail.com,12/30/2023,Google Pixel,2,400,UNITED kingdom,delivered
+1365,Lillian Ross,Lillian.Ross@yahoo.com,12/31/2023,Samsung Galaxy S22,two,849,usa,Shipped
+1366,Gabriel Jenkins,Gabriel.Jenkins@outlook.com,10/24/2023,NULL,2,0,United States ,RETURNED
+1367,Aurora Bell,Aurora.Bell@gmail.com,12/22/2023,Apple Watch,1,$200 ,uk,pending
+1368,Carter Rivera,Carter.Rivera@yahoo.com,12/25/2023,Iphone 14,one,799,canada,Delivered 
+1369,Scarlett Jenkins,Scarlett.Jenkins@HotMail.com,10/10/2023,Macbook Pro,1,"1,299",india,shipped
+1370,Leo Foster,Leo.Foster@gmail.com,11/14/2023,MacBook Pro,2,"1,299",india,Returned
+1371,Penelope Adams,Penelope.Adams@yahoo.com,10/25/2023,Samsung Galaxy S22,three,849,SPAIN,DELIVERED
+1372,Maverick Bell,Maverick.Bell@outlook.com,11/07/2023,Google pixel,1,400,usa,Pending
+1373,Violet Ross,Violet.Ross@gmail.com,11/27/2023,SAMSUNG GALAXY S22,2,849,United States,delivered
+1374,Anthony Jenkins,Anthony.Jenkins@yahoo.com,12/15/2023,Samsung Galaxy S22,2,849,U.K.,SHIPPED
+1375,Layla Rivera,Layla.Rivera@HotMail.com,11/07/2023,iPhone 14,2,799,canada ,returned
+1376,Hunter Bell,Hunter.Bell@gmail.com,12/27/2023,Apple Watch Series 8,1,399,india,Delivered
+1377,Aurora Ross,Aurora.Ross@yahoo.com,12/14/2023,IPHONE 14 ,2,799,spain,pending
+1378,Christian Jenkins,Christian.Jenkins@outlook.com,11/02/2023,Samsung galaxy s22,1,849,USA,Delivered
+1379,Nora Foster,Nora.Foster@gmail.com,11/12/2023,macbook Pro ,2,"$1,299 ",uk,Shipped
+1380,Dominic Bell,Dominic.Bell@yahoo.com,11/12/2023,google pixel 7,1,599,United kingdom,RETURNED
+1381,Emily Adams,Emily.Adams@HotMail.com,12/26/2023,apple watch series8,three,399,CANADA,delivered
+1382,Ezekiel Jenkins,Ezekiel.Jenkins@gmail.com,11/25/2023,AirPods Pro,3,249,u s a,Pending
+1383,Paisley Ross,Paisley.Ross@yahoo.com,10/27/2023,iPad Air ,2,599,United states,Delivered 
+1384,Leo Bell,Leo.Bell@outlook.com,12/15/2023,IPHONE14 pro ,1,999,india,returned
+1385,Lillian Foster,Lillian.Foster@gmail.com,10/14/2023,Samsung Galaxy S23,2,899,SPAIN,shipped
+1386,Julian Jenkins,Julian.Jenkins@yahoo.com,10/07/2023,mac book pro,1,"1,299",Uk,DELIVERED
+1387,Aria Ross,Aria.Ross@HotMail.com,11/25/2023,GOOGLE Pixel 7a,1,499,CANADA,Pending
+1388,Nathaniel Bell,Nathaniel.Bell@gmail.com,12/20/2023,i phone 13,1,699,united kingdom,delivered
+1389,Victoria Foster,Victoria.Foster@yahoo.com,10/29/2023,Apple watch se,1,249,usa ,Returned
+1390,Colton Jenkins,Colton.Jenkins@outlook.com,11/09/2023,samsung GALAXY S22 ,1,849,UNITED STATES,SHIPPED
+1391,Hazel Ross,Hazel.Ross@gmail.com,10/22/2023,macbook pro ,1,"1,299",india,Delivered
+1392,Miles Bell,Miles.Bell@yahoo.com,11/19/2023,Airpods pro,1,249,spain,pending
+1393,Chloe Foster,Chloe.Foster@HotMail.com,11/29/2023,iPad Mini,2,499,u.k.,RETURNED
+1394,Cameron Jenkins,Cameron.Jenkins@gmail.com,10/29/2023,iPHONE 15 Pro,2,"1,099.00",Canada,delivered
+1395,Aurora Ross,Aurora.Ross@yahoo.com,10/26/2023,Samsung galaxy s23 ultra,3,"$1,299 ",United Kingdom,shipped
+1396,Jackson Bell,Jackson.Bell@outlook.com,11/24/2023,MacBook Air,1,999,INDIA,Delivered 
+1397,Violet Foster,Violet.Foster@gmail.com,10/13/2023,google pixel,2,400,Usa,Pending
+1398,Samuel Jenkins,Samuel.Jenkins@yahoo.com,12/22/2023,APPLE WATCH series 9,3,449,usa,DELIVERED
+1399,Lillian Ross,Lillian.Ross@HotMail.com,12/16/2023,Iphone 14 pro ,1,$999 ,United kingdom,returned
+1400,Henry Bell,Henry.Bell@gmail.com,12/24/2023,samsung galaxy S22,2,849,CANADA,shipped
+1401,Scarlett Foster,Scarlett.Foster@yahoo.com,12/17/2023,macbook air ,4,$999.00 ,u s a,Delivered
+1402,Ethan Jenkins,Ethan.Jenkins@outlook.com,12/23/2023,airpods PRO ,3,249,United states,pending
+1403,Aria Ross,Aria.Ross@gmail.com,11/22/2023,iPad Air 5th gen,1,599,india,RETURNED
+1404,Mason Bell,Mason.Bell@yahoo.com,11/01/2023,IPHONE 14 plus,4,899,SPAIN,DELIVERED
+1405,Aurora Foster,Aurora.Foster@HotMail.com,10/06/2023,Google Pixel 8,1,699,Uk,shipped
+1406,Jacob Jenkins,Jacob.Jenkins@gmail.com,11/11/2023,Apple watch 8,1,399,CANADA,delivered 
+1407,Paisley Ross,Paisley.Ross@yahoo.com,11/16/2023,samsung galaxy s21,1,799,us,Returned
+1408,Alexander Bell,Alexander.Bell@outlook.com,12/10/2023,MACBOOK pro,1,"1,299",United kingdom,Pending
+1409,Nora Foster,Nora.Foster@gmail.com,10/10/2023,airPods,1,129,CANADA,SHIPPED
+1410,Michael Jenkins,Michael.Jenkins@yahoo.com,12/10/2023,Ipad 9th Gen,1,329,u s a,Delivered
+1411,Violet Ross,Violet.Ross@HotMail.com,12/30/2023,iphone 13 ,2,$699 ,United states,returned
+1412,Daniel Bell,Daniel.Bell@gmail.com,10/01/2023,samsung galaxy S22 ultra,2,"1,199.00",india,DELIVERED
+1413,Lillian Foster,Lillian.Foster@yahoo.com,11/16/2023,macBook PRO ,2,"1,299",SPAIN,returned
+1414,Matthew Jenkins,Matthew.Jenkins@outlook.com,11/11/2023,GOOGLE pixel 8,2,$699 ,Uk,pending
+1415,Aria Ross,Aria.Ross@gmail.com,12/30/2023,apple watch ultra ,1,799,CANADA,Delivered
+1416,Joseph Bell,Joseph.Bell@yahoo.com,10/20/2023,IPHONE14 PRO,1,999,United kingdom,delivered
+1417,Aurora Foster,Aurora.Foster@HotMail.com,11/19/2023,samsung Galaxy s23,1,899,CANADA,Shipped
+1418,David Jenkins,David.Jenkins@gmail.com,11/14/2023,macbook air ,2,$999.00 ,u s a,RETURNED
+1419,Scarlett Ross,Scarlett.Ross@yahoo.com,11/29/2023,Airpods 2nd gen,4,179,United states,pending
+1420,Samuel Bell,Samuel.Bell@outlook.com,11/05/2023,ipad Air 4,3,599,india,Delivered 
+1421,Hazel Foster,foster_hazel@outlook.com,10/01/2023,IPHONE 15 PRO,2,"1,099",SPAIN,shipped
+1422,Nathaniel Jenkins,jenkinsboy_nat@yahoo.com,11/21/2023,samsung Galaxy S24,1,999,Uk,Returned
+1423,Victoria Ross,victoria_ross33@yahoo.com,11/24/2023,Macbook Pro ,1,"$1,299 ",CANADA,DELIVERED
+1424,Isaac Bell,bellavita@yahoo.com,11/04/2023,apple watch series8 ,1,399,CANADA,Pending
+1425,Chloe Foster,foster_321@hotmail.com,12/24/2023,airpods pro ,1,249,u s a,delivered
+1426,Sebastian Jenkins,Sebastian.Ross@HotMail.com,11/26/2023,i phone 13,2,699,United states,SHIPPED
+1427,Aurora Ross,aurora123@gmail.com,11/30/2023,IPHONE 14 ,2,799,india,returned
+1428,Gabriel Bell,Gabriel.Bell@gmail.com,10/05/2023,Apple Watch Series 8,2,399,canada,Delivered
+1429,Violet Foster,Violet.Foster@yahoo.com,11/15/2023,IPHONE 14 ,3,799,United kingdom,pending
+1430,Carter Jenkins,Carter.Jenkins@outlook.com,11/18/2023,Samsung galaxy s22,4,849,CANADA,Delivered
+1431,Lillian Ross,Lillian.Ross@gmail.com,12/09/2023,macbook Pro ,3,"1,299",u s a,Shipped
+1432,Leo Bell,Leo.Bell@yahoo.com,11/16/2023,google pixel 7,3,599,United states,RETURNED
+1433,Aurora Foster,Aurora.Foster@HotMail.com,10/01/2023,apple watch series8,3,399,india,delivered
+1434,Maverick Jenkins,Maverick.Jenkins@gmail.com,12/27/2023,AirPods Pro,2,249,SPAIN,Pending
+1435,Scarlett Ross,Scarlett.Ross@yahoo.com,11/26/2023,iPad Air ,2,599,Uk,Delivered 
+1436,Anthony Bell,Anthony.Bell@outlook.com,12/01/2023,IPHONE14 pro ,2,999,CANADA,returned
+1437,Penelope Foster,Penelope.Foster@gmail.com,12/24/2023,Samsung Galaxy S23,2,899,united kingdom,shipped
+1438,Hunter Jenkins,Hunter.Jenkins@yahoo.com,11/29/2023,mac book pro,2,"1,299",usa ,DELIVERED
+1439,Lillian Ross,Lillian.Ross@HotMail.com,11/05/2023,GOOGLE Pixel 7a,2,499,UNITED STATES,Pending
+1440,Christian Bell,Christian.Bell@gmail.com,12/05/2023,i phone 13,2,699,india,delivered
+1441,Aria Foster,Aria.Foster@yahoo.com,12/03/2023,Apple watch se,2,249,spain,
+1442,Dominic Jenkins,Dominic.Jenkins@outlook.com,11/26/2023,airpods,2,129,canada,cancelled
+1443,Nora Ross,Nora.Ross@gmail.com,10/01/2023,GOOGLE Pixel 7a,1,499,Spain,DELIVERED
+1444,Ezekiel Bell,Ezekiel.Bell@yahoo.com,10/23/2023,iphone,1,699,UK,REFUNDED
+1445,Violet Foster,Violet.Foster@HotMail.com,10/11/2023,macbook air ,1,$999 ,USA,cancelled
+1446,Emily Butler,Emily.Butler@yahoo.com,12/17/2023,iphone,1,699,us,pending
+1447,Gabriel Stone,Gabriel.Stone@yahoo.com,11/24/2023,macbook,1,999,canada,pending
+1448,JASON Lee  ,jason.lee@yahoo.com,10/24/2023,Iphone 14 pro ,1,999,United Kingdom,DELIVERED
+1449,Dominic Jenkins,Dominic.Jenkins@outlook.com,10/25/2023,airpods,1,129,canada,cancelled
+1450,Gabriel Stone,Gabriel.Stone@yahoo.com,10/30/2023,macbook,1,999,canada,pending
+1451,ALEXANDER YOUNG,alex.young@outlook.com,12/31/2023,MACBOOK pro,1,"1,299",spain,shipped
+1452,Penelope Hughes,hughes.pene@gmail.com,10/08/2023,iphone,1,699,uk,cancelled
+1453,Aaron White,aaron.white@Hotmail.com,10/19/2023,macbook air ,1,999,Usa,refunded
+1454,SOPHIA lopez,sophia.lopez@gmail.com,11/24/2023,i phone 13,1,699,india,returned
+1455,zoe khan  ,zoe.khan@yahOo.com,11/08/2023,mac book pro,1,"1,299",u s a,delivered
+1456,Zoe Khan,zoe.khan@yahOo.com,10/17/2023,IPHONE 15 PRO,1,"1,099",usa,Pending
+1457,hannah  campbell,hannah.campbell@gmail.com,12/08/2023,macbook air ,1,999,India,shipped
+1458,JASON Lee  ,jason.lee@yahoo.com,11/13/2023,Iphone 14 pro ,1,999,United Kingdom,DELIVERED
+1459,Hazel Adams,hazel.adams12@gmail.com,11/11/2023,macbook,2,999,canada,pending
+1460,Adam Sheikh,adam_sheikh@Yahoo.com,12/14/2023,Samsung galaxy s23 ultra,2,"$1,299 ",india,delivered
+1461,Rayan Malik  ,rayanmalik@yahoo.com,12/30/2023,IPHONE 14 ,2,799,United States,delivered
+1462,Emily Butler,Emily.Butler@yahoo.com,11/07/2023,iphone,1,699,us,pending
+1463,Gabriel Stone,Gabriel.Stone@yahoo.com,10/19/2023,macbook,2,999,canada,pending
+1464,Dominic Jenkins,Dominic.Jenkins@outlook.com,12/12/2023,airpods,1,129,canada,cancelled
+1465,ALEXANDER YOUNG,alex.young@outlook.com,10/22/2023,MACBOOK pro,2,"$1,299 ",spain,shipped
+1466,Aaron White,aaron.white@Hotmail.com,12/11/2023,macbook air ,1,999,Usa,refunded
+1467,MUSTAFA rehman  ,mustafa.rehman@outlook.com,12/28/2023,google pixel,2,400,u.k.,returned
+1468,MUSTAFA rehman  ,mustafa.rehman@outlook.com,12/01/2023,google pixel,1,400,u.k.,returned
+1469,Penelope Hughes,hughes.pene@gmail.com,11/28/2023,iphone,3,699,uk,cancelled
+1470,Penelope Hughes,hughes.pene@gmail.com,11/10/2023,iphone,1,699,uk,cancelled
+1471,Jacob Simmons,jacob.simmons@yahoo.com,11/01/2023,Iphone 14 pro ,3,$999 ,usa,shipped
+1472,Hazel Adams,hazel.adams12@gmail.com,11/25/2023,macbook,3,999,canada,pending
+1473,hannah  campbell,hannah.campbell@gmail.com,11/28/2023,macbook air ,3,999,India,shipped
+1474,JASON Lee  ,jason.lee@yahoo.com,11/27/2023,Iphone 14 pro ,1,999,United Kingdom,DELIVERED
+1475,SOPHIA lopez,sophia.lopez@gmail.com,12/01/2023,i phone 13,3,699,india,returned
+1476,Gabriel Stone,Gabriel.Stone@yahoo.com,11/24/2023,macbook,1,$999 ,canada,pending
+1477,Rayan Malik  ,rayanmalik@yahoo.com,12/12/2023,IPHONE 14 ,2,799,United States,delivered
+1478,SOPHIA lopez,sophia.lopez@gmail.com,10/23/2023,i phone 13,2,699,india,returned
+1479,Adam Sheikh,adam_sheikh@Yahoo.com,10/24/2023,Samsung galaxy s23 ultra,2,"1,299",india,delivered
+1480,Gabriel Stone,Gabriel.Stone@yahoo.com,12/17/2023,macbook,1,$999 ,canada,pending
+1481,Emily Butler,Emily.Butler@yahoo.com,10/20/2023,iphone,1,699,us,pending
+1482,Hazel Adams,hazel.adams12@gmail.com,10/20/2023,macbook,1,999,canada,pending
+1483,ALEXANDER YOUNG,alex.young@outlook.com,10/30/2023,MACBOOK pro,3,"1,299",spain,shipped
+1484,Jacob Simmons,jacob.simmons@yahoo.com,12/22/2023,Iphone 14 pro ,1,999,usa,shipped
+1485,hannah  campbell,hannah.campbell@gmail.com,11/07/2023,macbook air ,1,999,India,shipped
+1486,MUSTAFA rehman  ,mustafa.rehman@outlook.com,10/12/2023,google pixel,1,400,u.k.,returned
+1487,MUSTAFA rehman  ,mustafa.rehman@outlook.com,10/14/2023,google pixel,1,400,u.k.,returned
+1488,Dominic Jenkins,Dominic.Jenkins@outlook.com,11/17/2023,airpods,1,129,canada,cancelled
+1489,Hazel Adams,hazel.adams12@gmail.com,12/28/2023,macbook,2,999,canada,pending
+1491,Mustafa Rehman,mustafa.rehman@outlook.com,10/22/2023,google pixel,2,400,u.k.,returned
+1492,Rayan Malik  ,rayanmalik@yahoo.com,12/18/2023,IPHONE 14 ,2,799,United States,delivered
+1493,hannah  campbell,hannah.campbell@gmail.com,11/17/2023,macbook air ,2,999,India,shipped
+1494,SOPHIA lopez,sophia.lopez@gmail.com,10/06/2023,i phone 13,2,699,india,returned
+1495,zoe khan  ,zoe.khan@yahOo.com,10/03/2023,mac book pro,3,"1,299",u s a,delivered
+1496,Zoe Khan,zoe.khan@yahOo.com,11/19/2023,IPHONE 15 PRO,3,"1,099",usa,Pending
+1497,ALEXANDER YOUNG,alex.young@outlook.com,12/14/2023,MACBOOK pro,3,"$1,299 ",spain,shipped
+1498,Jacob Simmons,jacob.simmons@yahoo.com,10/03/2023,Iphone 14 pro ,1,999,usa,shipped
+1499,hannah  campbell,hannah.campbell@gmail.com,11/12/2023,macbook air ,2,999,India,shipped
+1500,ALEXANDER YOUNG,alex.young@outlook.com,12/23/2023,MACBOOK pro,1,"1,299",spain,shipped
