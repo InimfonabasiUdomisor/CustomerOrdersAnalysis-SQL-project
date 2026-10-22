@@ -1,8 +1,8 @@
 # CustomerOrdersAnalysis-SQL-project
 Data cleaning and transformation of customer orders dataset using SQL
-# 📊 Customer Orders Analysis | SQL & Power BI
+# Customer Orders Analysis | SQL & Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on cleaning, transforming, and analyzing customer order data using **Microsoft SQL Server (SSMS)** and **Power BI** to uncover actionable business insights.
 
@@ -10,7 +10,7 @@ The dataset contains customer information, product details, order dates, quantit
 
 I developed SQL scripts to prepare the data for analysis, investigate sales performance, evaluate customer value, monitor order fulfillment, and identify products associated with returns, cancellations, and refunds. The results support data-driven decisions around customer retention, product performance, and operational efficiency.
 
-## 🛠️ Skills & Tools Used
+## Skills & Tools Used
 
 **Tools**
 - Microsoft SQL Server Management Studio (SSMS)
@@ -33,7 +33,7 @@ I developed SQL scripts to prepare the data for analysis, investigate sales perf
 - Product performance and revenue-loss analysis
 - Data visualization and dashboard development
 
-## 🔍 Business Questions Explored
+## Business Questions Explored
 
 1. Which products generate the highest net revenue?
 2. Which products have the highest return, cancellation, and refund rates?
@@ -43,7 +43,7 @@ I developed SQL scripts to prepare the data for analysis, investigate sales perf
 6. What proportion of orders are delivered, shipped, pending, returned, cancelled, or refunded?
 7. How much revenue is associated with unsuccessful orders?
 
-## 💡 Insights
+## Insights
 
 The analysis examines several dimensions of business performance:
 
@@ -54,7 +54,7 @@ The analysis examines several dimensions of business performance:
 - **Order fulfillment:** Examines order-status distribution to highlight potential fulfillment delays and revenue at risk.
 - **Data quality:** Identifies inconsistencies that could distort reporting, customer analysis, and business decisions.
 
-## 📈 Key Findings
+## Key Findings
 
 Initial exploration of the 499-row dataset revealed the following:
 
@@ -67,7 +67,7 @@ Initial exploration of the 499-row dataset revealed the following:
 
 *Note: These findings are based on the initial dataset. Final financial totals and product or country rankings should be taken from the cleaned data and validated Power BI measures.*
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Customer Analysis/
@@ -86,7 +86,7 @@ Customer Analysis/
     └── Raw customer orders dataset
 ```
 
-## 🚀 How to Use This Project
+## How to Use This Project
 
 1. Import `orders.csv` into Microsoft SQL Server as the source `dbo.orders` table.
 2. Open the data-cleaning SQL script in SSMS and execute it to create the cleaned `dbo.orders_cleaned` table.
@@ -96,11 +96,11 @@ Customer Analysis/
 
 **Prerequisites:** SQL Server, SSMS, and Power BI Desktop.
 
-## 🎓 What I Learned
+## What I Learned
 
 This project strengthened my ability to translate raw, inconsistent data into structured information for business decision-making. It also improved my practical understanding of SQL-based data preparation, analytical querying, customer behavior analysis, revenue monitoring, and communicating findings through dashboards.
 
-## 🙏 Credits
+## Credits
 
 - **Project inspiration:** [CustomerOrders SQL Project by Ramsha Arshad](https://github.com/Ramsha-Arshad/CustomerOrders-SQL-project/tree/main)
 - **Dataset:** `orders.csv`, included in this project repository.
@@ -108,12 +108,12 @@ This project strengthened my ability to translate raw, inconsistent data into st
 
 This project was developed as part of my continued growth in data analytics and business intelligence.
 
-## 🤝 Connect With Me
+## Connect With Me
 
 **Inimfonabasi Udomisor**  
 Business Analytics Professional
 
-📧 Email: [inimfonabasiudomisor@gmail.com](mailto:inimfonabasiudomisor@gmail.com)
+Email: [inimfonabasiudomisor@gmail.com](mailto:inimfonabasiudomisor@gmail.com)
 
 I'm open to opportunities, collaborations, and conversations around data analytics, SQL, Power BI, and business intelligence.
 
